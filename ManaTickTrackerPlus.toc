@@ -1,6 +1,6 @@
 ## Interface: 20505, 11508
 ## Title: ManaTickTrackerPlus
-## Version: 1.1.0
+## Version: 1.0.1
 ## Author: StormtrooperTK421
 ## Notes: A visual MP5 timer and regen ticker for mana bars
 ## DefaultState: enabled
